@@ -15,13 +15,11 @@ title: Amanda Jensen Resume
 `2020-2023`
 __Brigham Young University Idaho__, Rexburg, ID
 
-`Expected 2029`
+`Expected Graduation December 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
-
-## Related Experience
+Major: Public Health Education
+Minor: Data Science
+Certification: Epidemiology
 
 ### Internships
 
