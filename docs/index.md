@@ -14,9 +14,9 @@ title: Amanda Jensen Resume
 `Expected Graduation December 2023`
 __Brigham Young University Idaho__, Rexburg, ID
 
-Major: Public Health Education
-Minor: Data Science
-Certification: Epidemiology
+-Major: Public Health Education
+-Minor: Data Science
+-Certification: Epidemiology
 
 ### Internships
 
