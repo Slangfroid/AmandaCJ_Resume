@@ -16,6 +16,7 @@ title: Amanda Jensen Resume
 __Brigham Young University Idaho__, Rexburg, ID
 
 `Expected Graduation December 2023`
+
 __Brigham Young University - Idaho__, Rexburg, ID
 Major: Public Health Education
 Minor: Data Science
@@ -23,16 +24,17 @@ Certification: Epidemiology
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`April 2023 - June 2023`
+__Public Health Educator__, Goldsboro, NC
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+•	Assisted in the implementation of multiple programs within the department
+•	Created meeting plans for the Healthy Beginnings program serving 15+ minority women
+•	Planned and implemented a “Bike Rodeo” to teach children bike safety
+•	Aided in writing the SOTCH report by compiling data, and writing summaries for the data
 
-### Data Science Lead
+### Epidemiology Tutor
 
-`April 2027 - June 2027`
+`September 2022 – February 2023`
 __Westmark Credit Union__, Consultant
 
 - Developed a predicted model to support Westmark in custumer conversion from dealer loans.
