@@ -11,11 +11,9 @@ title: Amanda Jensen Resume
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
-
-`2020-2023`
+`Expected Graduation December 2023`
 __Brigham Young University Idaho__, Rexburg, ID
 
-`Expected Graduation December 2023`
 
 __Brigham Young University - Idaho__, Rexburg, ID
 Major: Public Health Education
