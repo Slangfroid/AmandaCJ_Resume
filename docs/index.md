@@ -14,8 +14,6 @@ title: Amanda Jensen Resume
 `Expected Graduation December 2023`
 __Brigham Young University Idaho__, Rexburg, ID
 
-
-__Brigham Young University - Idaho__, Rexburg, ID
 Major: Public Health Education
 Minor: Data Science
 Certification: Epidemiology
@@ -43,6 +41,7 @@ __Brigham Young University Idaho__, Rexburg, ID
 ### Assistant Manager
 
 `April 2022 – April 2023`
+
 __Brigham Young University Housing__, Rexburg, ID
 -	Performed a variety of clerical duties such as answering phones and replying to emails.
 -	Presented a kind and understanding demeanor when handling resident issues
@@ -50,13 +49,15 @@ __Brigham Young University Housing__, Rexburg, ID
 -	Compiled a detailed eight page Assistant Manager training manual to be used by future Assistant Managers.
 
 ### Social Media Manager
-'January 2022-April 2023'
+
+`January 2022-April 2023`
+
 __Madison County Democrats__, Rexburg, ID
 -	Created a social media presence on Facebook and Instagram to better engage the community
 -	Aided in the planning and implementation of political meet and greets and other events such as Juneteenth, and Pride. 
 -	Utilized Canva to create eye-catching advertisements for events 
 -	Promoted door knocking events and created informative handouts to be used during the events.
-
+  
 ## Skills
 Python, R, SQL, Microsoft Office Suit
 
