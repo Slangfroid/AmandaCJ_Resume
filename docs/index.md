@@ -27,53 +27,40 @@ Certification: Epidemiology
 `April 2023 - June 2023`
 __Public Health Educator__, Goldsboro, NC
 
-•	Assisted in the implementation of multiple programs within the department
-•	Created meeting plans for the Healthy Beginnings program serving 15+ minority women
-•	Planned and implemented a “Bike Rodeo” to teach children bike safety
-•	Aided in writing the SOTCH report by compiling data, and writing summaries for the data
+-	Assisted in the implementation of multiple programs within the department
+-	Created meeting plans for the Healthy Beginnings program serving 15+ minority women
+-	Planned and implemented a “Bike Rodeo” to teach children bike safety
+-	Aided in writing the SOTCH report by compiling data, and writing summaries for the data
 
 ### Epidemiology Tutor
 
 `September 2022 – February 2023`
-__Westmark Credit Union__, Consultant
+__Brigham Young University Idaho__, Rexburg, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Tutored multiple students throughout the week preparing them for tests and quizzes
+-	Provided a welcoming demeanor and strong teaching skills 
+-	Adapted to students’ individual needs
+-	Demonstrated a strong understanding of the material in order to help others comprehend the material
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Assistant Manager
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`April 2022 – April 2023`
+__Brigham Young University Housing__, Rexburg, ID
+-	Performed a variety of clerical duties such as answering phones and replying to emails.
+-	Presented a kind and understanding demeanor when handling resident issues
+-	Planned and implemented resident activities such as social events and giveaways. 
+-	Compiled a detailed eight page Assistant Manager training manual to be used by future Assistant Managers.
 
-### Data Science Consulting Team
+### Social Media Manager
+'January 2022-April 2023'
+__Madison County Democrats__, Rexburg, ID
+-	Created a social media presence on Facebook and Instagram to better engage the community
+-	Aided in the planning and implementation of political meet and greets and other events such as Juneteenth, and Pride. 
+-	Utilized Canva to create eye-catching advertisements for events 
+-	Promoted door knocking events and created informative handouts to be used during the events.
 
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+## Skills
+Python, R, SQL, Microsoft Office Suit
 
 
 <!-- ### Footer
