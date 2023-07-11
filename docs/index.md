@@ -61,7 +61,10 @@ __Madison County Democrats__, Rexburg, ID
 ## Skills
 Python, R, SQL, Microsoft Office Suit
 
-
+{Everything looks really great, your language is very professional, and I don't really have any comments of things to change in your information above. Because your resume is so good I was extra picky and ran your content through grammerly. The only thing it picked up was to change eight page to eight-page with a hyphen. Change -Certification: Epidemiology if there is a more official name of the certificate you received.}
+{Suggestions: If you want you can add a strengths category to show off some of your capabilities in a list format. If you feel like it is unnecessary then diregard.
+Add any highschool involvement you had. Leadership/clubs/ other activities.}
+{Besides that I can't think of anything else I would add to your resume. I'd hire you.}
 <!-- ### Footer
 
 Last updated: May 2013 -->
